@@ -9,11 +9,11 @@ For more infomation, check out the [Thumby product page](https://tinycircuits.co
 Other helpful Thumby Links:
 
 - [Thumby Documentation Site](https://thumby.us/)  
- -  Contribute to Thumby Documentation at the [Thumby Doc Site Repository](https://github.com/TinyCircuits/Thumby-Website)
+   -  Contribute to Thumby Documentation at the [Thumby Doc Site Repository](https://github.com/TinyCircuits/Thumby-Website)
 - [Thumby Code Editor](https://code.thumby.us/)
- - [](https://github.com/TinyCircuits/TinyCircuits-Thumby-Code-Editor)
+   - Contrbute to the [Thumby Code Editor Repository](https://github.com/TinyCircuits/TinyCircuits-Thumby-Code-Editor)
 - [Thumby Arcade](https://arcade.thumby.us/)
- - Contribute a game to the [Thumby Game Repository](https://github.com/TinyCircuits/TinyCircuits-Thumby-Games)
+   - Contribute a game to the [Thumby Game Repository](https://github.com/TinyCircuits/TinyCircuits-Thumby-Games)
 
 # License:
 
