@@ -1,6 +1,6 @@
 # ASM4008 TinyCircuits Thumby
 
-The design files are located under design_files/ for the TinyCircuits ASM4008 PCB. This is a RP2040 board that is programmable using Arduino, Thonny, or any preferred MicroPython IDE. We recommend using our web browser [Thumby Code Editor](https://code.thumby.us/) for MicroPython.
+The design files are located under design_files/ for the TinyCircuits ASM4008 PCB. *Note: Rev 6 is the latest and current version of Thumby being built and shipped. Early Kickstarter units shipped with Rev 5 Thumby hardware - Rev 6 updates were made during fulfillment to decrease manufacturing and assembly time.* This is a RP2040 board that is programmable using Arduino, Thonny, or any preferred MicroPython IDE. We recommend using our web browser [Thumby Code Editor](https://code.thumby.us/) for MicroPython.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
